@@ -1,7 +1,7 @@
 {
-  "name": "static-site",
+  "name": "weather_app",
   "version": "1.0.0",
-  "description": "",
+  "description": "The project for a weather app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,6 @@
   "author": "Emmanuel Boadi",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.0.0"
+    "inquirer": "^8.2.6"
   }
 }

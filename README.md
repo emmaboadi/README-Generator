@@ -1,36 +1,19 @@
 
-  # Flick Finder
+# README Generator
 
-  ## Description
-   The aim of this project is to help users find recommendation of movies based  on movies  they've previously watched.
+## Description
+This project allows users to quickly and easily generate a README file by using command-line application.
 
-  ## Table of Contents
-   Installation, Usage, Credits, License, Questions.
+## Table of Contents
+- Installation
+- Usage
+- License
 
-  ## Installation
-  The App install several API that is used to design the weather dashboard. The Openweather APi was mainly used to fetch current and forecasted weather data
+## Installation
+After cloning the repository users can run npm init to initialise node and run npm install inquirer@^8.0.0 to install inquirer.
 
-  ## Usage
-  A user searches up a city and the weather dashboard displays current and forecasted weather conditions of that particular city.
+## Usage
+Run node index.js and answer the prompt questions.
 
-  ## License
-  MIT License
-
-  ## Contributing
-  undefined
-
-  ## Tests
-  dshfjkhskdjfh
-
-  ## Questions
-  undefined
-  
-  
-  - For additional question, Kindly contact me at Installation, Usage, Credits, License, Questions.
-
-
-  ## Installation
-  Installation, Usage, Credits, License, Questions.
-  
-
-    
+## License
+MIT License
